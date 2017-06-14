@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 14 08:48:12 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=E\:\\JiaowuChengji_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.zyc.processor.Rukou
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|JiaowuChengji>~tessdata/;<jar|jna-4.2.1.jar>;<jar|tess4j-2.0.1.jar>
+includes=
